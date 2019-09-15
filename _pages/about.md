@@ -1,13 +1,13 @@
 ---
-layout: archive
-title: "CV"
-permalink: /cv/
+permalink: /
+title: "Wellcome to my homepage!"
+excerpt: "About me"
 author_profile: true
-redirect_from:
-  - /resume
+redirect_from: 
+  - /about/
+  - /about.html
 ---
 
-{% include base_path %}
 
 Education
 ======
